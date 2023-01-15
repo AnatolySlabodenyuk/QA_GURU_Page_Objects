@@ -1,0 +1,7 @@
+/.idea
+/.gradle
+/build
+*.class
+.allure
+*.log
+.DS_Store
